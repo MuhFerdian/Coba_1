@@ -1,2 +1,5 @@
 - membuat rencana baru
+  * belajar javascript
+  * belajar php
 - belajar github ygy
+
