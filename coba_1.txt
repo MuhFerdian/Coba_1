@@ -1,3 +1,5 @@
 Coba Coba
       - Konsisten membuat proyek
       - belajar github
+File edit
+- menambahkan text
