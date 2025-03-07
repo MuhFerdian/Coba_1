@@ -1,5 +1,6 @@
 Coba Coba
       - Konsisten membuat proyek
       - belajar github
-File edit
-- menambahkan text
+Belajar AI
+- Dasar dasar AI
+- belajar dari chatgpt
